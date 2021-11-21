@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F5000&lines=Welcome+to+❌HUSNI SER❌+WA+Bot...;Created+by+husni...;This+is+a+Button...;With+more+features+bot...)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F5000&lines=Welcome+to+HUSNISER+WA+Bot...;Created+by+husni...;This+is+a+Button...;With+more+features+bot...)](https://git.io/typing-svg)
 
 <div align="center">
 <img src="xeon.jpg" alt="Pepe" width="170" />
