@@ -372,20 +372,7 @@ const checkRegisteredUser = (sender) => {
     if (prefix && command) cmdadd();
     const totalhit = JSON.parse(fs.readFileSync("./lib/totalcmd.json"))[0]
       .totalcmd;
-const daftar1 = `❑ Hi ${pushname} 🐦 ${ucapanWaktu} \n\n❑ Before Using the Bot Verify First 🙂`
-       const daftar2 = '```Click the button below to verify bro or type #verify\nʜᴜsɴɪ 😎```'
-       const daftar3 = [
-          {
-            buttonId: `verify`,
-            buttonText: {
-              displayText: `Verify`,
-            },
-            type: 1,
-          },]
-var hayuk0 = '[NOT VERIFIED]'
-			if (isRegistered) {
-			hayuk0 = '[√ VERIFIED]'
-			}
+
     //Y
 const timeWib = moment.tz('Asia/Jakarta').format('DD/MM HH:mm:ss')
 		const timeWita = moment().tz('Asia/Makassar').format('DD/MM HH:mm:ss')
