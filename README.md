@@ -19,7 +19,7 @@
   ### Simple Method
   
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@pepesir/PEPE-SIR-Qr-code?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Husniser/HUSNISER-QR-CODE)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nijin-husni/HUSNI-SER) 
 
