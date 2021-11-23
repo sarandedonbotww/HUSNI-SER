@@ -25,7 +25,6 @@ const { Toxic } = require('./lib/Toxic.js')
 const hx = require("hxz-api");
 const qrcode = require("qrcode-terminal");
 const moment = require("moment-timezone");
-const vien = JSON.parse(fs.readFileSync('./database/vien.json'))
 const speed = require("performance-now");
 const request = require("request");
 const { spawn, exec, execSync } = require("child_process");
