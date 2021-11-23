@@ -1826,7 +1826,7 @@ reply(`${mek.quoted.caption}`)
 break
 case 'iggw':
  sendButMessage (from, daftar1, daftar2, daftar3, { quoted: fkontak})
-  reply('https://www.instagram.com/_roshan_p_r')
+  reply('https://www.instagram.com/_husni_ser_')
 break
    
 case 'owner':
